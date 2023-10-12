@@ -57,9 +57,9 @@ Github Profile: [https://github.com/nfillip](https://github.com/nfillip)
     
 
 ## Website
-Github Repo: [https://github.com/nfillip/employee-tracker](https://github.com/nfillip/employee-tracker)<br>
-Video Walk-Through: [https://drive.google.com/file/d/1566y919RTW5ukaMUxEH9IaVhHjxMj8WR/view](https://drive.google.com/file/d/1566y919RTW5ukaMUxEH9IaVhHjxMj8WR/view)
-![Screenshot of VideoWalkthrough](./Assets/video-walkthrough.PNG)
+Github Repo: [https://github.com/nfillip/tech-blog](https://github.com/nfillip/tech-blog)
+Heroku Site: [https://tech-blog-fillip-36d4c16ad8a1.herokuapp.com/](https://tech-blog-fillip-36d4c16ad8a1.herokuapp.com/)<br>
+![Screenshot of Website](./Assets/screenshot.PNG)
 
 
 ---
